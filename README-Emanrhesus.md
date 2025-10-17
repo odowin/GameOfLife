@@ -4,3 +4,6 @@ c'est le fichier qu'il faut me lire parce qu'en me lisant on peut me lire et la 
 BREF
 LEJEDELAVI c'est un jeu qui fait en sorte qu'il y ait de la vie dans le jeu du coup une fois que c'est lancé ya plein de choses quis e passent et ya des trucs partout, des patterns un peu aléatoire(completement)
 
+### Readme renommé avec le nom du mec chiant de la promo qui fait que des blagues nulles mais qui sont drôles
+
+lol
